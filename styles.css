@@ -1,7 +1,37 @@
 .general{
 
-background-color: bisque;
-color:black;
-font-family: 'Times New Roman', sans-serif
+background-color: beige;
+color: black;
 
 }
+
+.normalText{
+font-size: 12px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.description{
+font-style: italic;
+}
+
+.steps.ingredients{
+font-size: 14px;
+
+}
+
+.steps{
+font-weight: bold;
+}
+
+.ingredients{
+font-weight: lighter
+}
+
+.toppings .textInside{
+    color: red;
+    font-size: 20px;
+    
+    
+    }
+    
